@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/menu_find_nearme"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_find_nearme"
+            android:icon="@drawable/find_near_me"
+            android:title="@string/find_near" />
+    </group>
+
+    <group
+        android:id="@+id/menu_friend"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_friend"
+            android:icon="@drawable/friend_near_me"
+            android:title="@string/friends" />
+    </group>
+    <group
+        android:id="@+id/menu_profile"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/my_profile"
+            android:title="@string/my_profile" />
+    </group>
+
+    <group
+        android:id="@+id/menu_update_profile"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_update_profile"
+            android:icon="@drawable/my_profile"
+            android:title="@string/updaet_number" />
+    </group>
+    <group
+        android:id="@+id/menu_about"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/about"
+            android:title="@string/about" />
+    </group>
+    <!--<group-->
+        <!--android:id="@+id/menu_club"-->
+        <!--android:checkableBehavior="none">-->
+        <!--<item-->
+            <!--android:id="@+id/nav_club"-->
+            <!--android:icon="@drawable/clubs"-->
+            <!--android:title="@string/club" />-->
+    <!--</group>-->
+    <!--<group-->
+        <!--android:id="@+id/menu_hospital"-->
+        <!--android:checkableBehavior="none">-->
+        <!--<item-->
+            <!--android:id="@+id/nav_hospital"-->
+            <!--android:icon="@drawable/hospitalitiy"-->
+            <!--android:title="@string/hospital" />-->
+    <!--</group>-->
+    <!--<group-->
+        <!--android:id="@+id/menu_petrol"-->
+        <!--android:checkableBehavior="none">-->
+        <!--<item-->
+            <!--android:id="@+id/nav_petrol_pump"-->
+            <!--android:icon="@drawable/petrol_pumps"-->
+            <!--android:title="@string/petrol_pump" />-->
+    <!--</group>-->
+    <!--<group-->
+        <!--android:id="@+id/menu_restaurant"-->
+        <!--android:checkableBehavior="none">-->
+        <!--<item-->
+        <!--android:id="@+id/nav_restaurant"-->
+        <!--android:icon="@drawable/restaurants"-->
+        <!--android:title="@string/restaurant" />-->
+    <!--</group>-->
+    <!--<group-->
+        <!--android:id="@+id/menu_airport"-->
+        <!--android:checkableBehavior="none">-->
+        <!--<item-->
+            <!--android:id="@+id/nav_airport"-->
+            <!--android:icon="@drawable/airport"-->
+            <!--android:title="@string/airport" />-->
+    <!--</group>-->
+    <!--<group-->
+        <!--android:id="@+id/menu_more"-->
+        <!--android:checkableBehavior="none">-->
+        <!--<item-->
+            <!--android:id="@+id/nav_more"-->
+            <!--android:icon="@drawable/more"-->
+            <!--android:title="@string/more" />-->
+    <!--</group>-->
+
+    <group
+    android:id="@+id/menu_nav_more"
+    android:checkableBehavior="none">
+    <item
+        android:id="@+id/nav_more"
+        android:icon="@drawable/ic_more"
+        android:title="MORE APPS" />
+    </group>
+    <group
+    android:id="@+id/menu_nav_web"
+    android:checkableBehavior="none">
+    <item
+        android:id="@+id/nav_web"
+        android:icon="@drawable/ic_website"
+        android:title="WEBSITE" />
+    </group>
+    <group
+    android:id="@+id/menu_nav_rate"
+    android:checkableBehavior="none">
+    <item
+        android:id="@+id/nav_rate"
+        android:icon="@drawable/ic_rate"
+        android:title="RATE US" />
+    </group>
+    <group
+        android:id="@+id/menu_bottom"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/log_out"
+            android:title="@string/logout" />
+    </group>
+    <group
+        android:id="@+id/menu_policy"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_policy"
+            android:icon="@drawable/privacy_policy"
+            android:title="@string/privacy_policy" />
+    </group>
+    <!--<item android:title="Communicate">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/nav_share"-->
+                <!--android:icon="@drawable/ic_menu_share"-->
+                <!--android:title="Share" />-->
+            <!--<item-->
+                <!--android:id="@+id/nav_send"-->
+                <!--android:icon="@drawable/ic_menu_send"-->
+                <!--android:title="Send" />-->
+        <!--</menu>-->
+    <!--</item>-->
+
+</menu>

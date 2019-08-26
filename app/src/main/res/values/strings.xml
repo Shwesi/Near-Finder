@@ -1,0 +1,245 @@
+<resources>
+    <string name="app_name">Near Finder</string>
+    <string name="log_in">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_pass"><u>Forgot password</u></string>
+    <string name="dont_have_account">Don\'t have an account? </string>
+    <string name="already_have_account">Already have an account ?</string>
+    <string name="email">Email</string>
+    <string name="pass_word">Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone">Phone</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="code">Code</string>
+    <string name="identification_number">Identification Number</string>
+    <string name="join_us">Join Us</string>
+    <string name="reset_pass">Reset Password</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="login_key">login</string>
+    <string name="select_image">Select Image</string>
+    <string name="update">Update</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="confirm_pass">Confirm Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_hint">Search</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="updaet_number">UPDATE NUMBER</string>
+    <string name="friends">FRIENDS NEAR ME</string>
+    <string name="friend">FRIENDS</string>
+    <string name="about">ABOUT</string>
+    <string name="privacy_policy">PRIVACY POLICY</string>
+    <string name="find_near">FIND NEAR ME</string>
+    <string name="club">CLUBS</string>
+    <string name="hospital">HOSPITAL</string>
+    <string name="petrol_pump">PETROL PUMPS</string>
+    <string name="restaurant">RESTAURANTS</string>
+    <string name="airport">AIRPORT</string>
+    <string name="more">MORE</string>
+    <string name="logout">LOGOUT</string>
+    <string name="edt_type">Start typing...</string>
+    <string name="facebook_app_id">438807966720021</string>
+    <string name="fb_login_protocol_scheme">fb438807966720021</string>
+
+    <string name="banner_home_footer">your admob banner id</string>
+    <string name="interstitial_full_screen">your admob intersitial id</string>
+    <string name="google_api_key_default">AIzaSyCeRdAUO0i4cKCwUke2qUeuL0utCwcpFcw</string>
+    <string name="user_successfully_added">User Added</string>
+    <string name="user_unable_to_add">Unable to add usr</string>
+    <string name="salon">SALON</string>
+    <string name="temple">TEMPLE</string>
+    <string name="shopping">SHOPPING</string>
+    <string name="dash_board">DASHBOARD</string>
+    <string name="about_app">Find Friends near you, NearMe Allows you to find nearest restaurant,airport,hospital,atm,bank,shopping mall etc.
+    "\n" Also you can chat with your friends ,send images etc.</string>
+    <string name="privacy_text">NearMe does not collect or transfer any data to us or to any third party unless stated below."\n" NearMe must use your  storage  to read or write images and also user your location . NearMe does not transfer any data to us or to any third party.
+    NearMe uses Google\'s mobile advertising platform Admob in free version and fully complies with their privacy and the developer\'s policy</string>
+    <string-array name="place_type">
+        <item>accounting</item>
+        <item>airport</item>
+        <item>amusement_park</item>
+        <item>aquarium</item>
+        <item>art_gallery</item>
+        <item>atm</item>
+        <item>bakery</item>
+        <item>bank</item>
+        <item>bar</item>
+        <item>beauty_salon</item>
+        <item>bicycle_store</item>
+        <item>book_store</item>
+        <item>bowling_alley</item>
+        <item>bus_station</item>
+        <item>cafe</item>
+        <item>campground</item>
+        <item>car_dealer</item>
+        <item>car_rental</item>
+        <item>car_repair</item>
+        <item>car_wash</item>
+        <item>casino</item>
+        <item>cemetery</item>
+        <item>church</item>
+        <item>city_hall</item>
+        <item>clothing_store</item>
+        <item>convenience_store</item>
+        <item>courthouse</item>
+        <item>dentist</item>
+        <item>department_store</item>
+        <item>doctor</item>
+        <item>electrician</item>
+        <item>electronics_store</item>
+        <item>embassy</item>
+        <item>fire_station</item>
+        <item>florist</item>
+        <item>funeral_home</item>
+        <item>furniture_store</item>
+        <item>gas_station</item>
+        <item>gym</item>
+        <item>hair_care</item>
+        <item>hardware_store</item>
+        <item>hindu_temple</item>
+        <item>home_goods_store</item>
+        <item>hospital</item>
+        <item>insurance_agency</item>
+        <item>jewelry_store</item>
+        <item>laundry</item>
+        <item>lawyer</item>
+        <item>library</item>
+        <item>liquor_store</item>
+        <item>local_government_office</item>
+        <item>locksmith</item>
+        <item>lodging</item>
+        <item>meal_delivery</item>
+        <item>meal_takeaway</item>
+        <item>mosque</item>
+        <item>movie_rental</item>
+        <item>movie_theater</item>
+        <item>moving_company</item>
+        <item>museum</item>
+        <item>night_club</item>
+        <item>painter</item>
+        <item>park</item>
+        <item>parking</item>
+        <item>pet_store</item>
+        <item>pharmacy</item>
+        <item>physiotherapist</item>
+        <item>plumber</item>
+        <item>police</item>
+        <item>post_office</item>
+        <item>real_estate_agency</item>
+        <item>restaurant</item>
+        <item>roofing_contractor</item>
+        <item>rv_park</item>
+        <item>school</item>
+        <item>shoe_store</item>
+        <item>shopping_mall</item>
+        <item>spa</item>
+        <item>stadium</item>
+        <item>storage</item>
+        <item>store</item>
+        <item>subway_station</item>
+        <item>synagogue</item>
+        <item>taxi_stand</item>
+        <item>train_station</item>
+        <item>transit_station</item>
+        <item>travel_agency</item>
+        <item>university</item>
+        <item>veterinary_care</item>
+        <item>zoo</item>
+
+    </string-array>
+
+    <string-array name="place_type_name">
+        <item>accounting</item>
+        <item>airport</item>
+        <item>amusement_park</item>
+        <item>aquarium</item>
+        <item>Art Gallery</item>
+        <item>atm</item>
+        <item>bakery</item>
+        <item>bank</item>
+        <item>bar</item>
+        <item>Beauty Salon</item>
+        <item>Bicycle Store</item>
+        <item>Book Store</item>
+        <item>Bowling Alley</item>
+        <item>Bus Station</item>
+        <item>cafe</item>
+        <item>Campground</item>
+        <item>Car Dealer</item>
+        <item>Car Rental</item>
+        <item>Car Repair</item>
+        <item>Car Wash</item>
+        <item>casino</item>
+        <item>cemetery</item>
+        <item>church</item>
+        <item>City Hall</item>
+        <item>Clothing Store</item>
+        <item>Convenience Store</item>
+        <item>Courthouse</item>
+        <item>Dentist</item>
+        <item>Department_store</item>
+        <item>Doctor</item>
+        <item>Electrician</item>
+        <item>Electronics_store</item>
+        <item>Embassy</item>
+        <item>Fire Station</item>
+        <item>Florist</item>
+        <item>Funeral Home</item>
+        <item>Furniture Store</item>
+        <item>Petrol Pump</item>
+        <item>Gym</item>
+        <item>Hair Care</item>
+        <item>Hardware Store</item>
+        <item>Hindu Temple</item>
+        <item>Home Goods Store</item>
+        <item>Hospital</item>
+        <item>Insurance Agency</item>
+        <item>Jewelry Store</item>
+        <item>laundry</item>
+        <item>lawyer</item>
+        <item>library</item>
+        <item>Liquor Store</item>
+        <item>Local Government Office</item>
+        <item>locksmith</item>
+        <item>lodging</item>
+        <item>Meal Delivery</item>
+        <item>Meal Takeaway</item>
+        <item>mosque</item>
+        <item>Movie Rental</item>
+        <item>Movie Theater</item>
+        <item>Moving Company</item>
+        <item>museum</item>
+        <item>Night Club</item>
+        <item>painter</item>
+        <item>park</item>
+        <item>parking</item>
+        <item>Pet Store</item>
+        <item>pharmacy</item>
+        <item>physiotherapist</item>
+        <item>plumber</item>
+        <item>police</item>
+        <item>Post Office</item>
+        <item>Real Estate Agency</item>
+        <item>restaurant</item>
+        <item>Roofing Contractor</item>
+        <item>Rv Park</item>
+        <item>school</item>
+        <item>Shoe Store</item>
+        <item>Shopping Mall</item>
+        <item>spa</item>
+        <item>stadium</item>
+        <item>storage</item>
+        <item>Store</item>
+        <item>Subway Station</item>
+        <item>Synagogue</item>
+        <item>Taxi Stand</item>
+        <item>Train Station</item>
+        <item>Transit Station</item>
+        <item>Travel Agency</item>
+        <item>university</item>
+        <item>Veterinary Care</item>
+        <item>Zoo</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="colorPrimary">#4286F5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#fff</color>
+    <color name="btn_sign_up_color">#12477E</color>
+    <color name="btn_log_in_color">#384B5E</color>
+    <color name="edit_text_color">#525252</color>
+    <color name="btn_text_color">#327CC6</color>
+    <color name="nav_header">#4789CC</color>
+    <color name="list_divider_color">#2870B8</color>
+    <color name="all_tem_bg">#A7C6E4</color>
+    <color name="edt_bg">#D3D3D3</color>
+    <color name="text_color">#4CAFD9</color>
+    <color name="signup_image_bg">#46A9E4</color>
+    <color name="list_bg">#B2BABB</color>
+    <color name="fb_btn_color">#3D5B94</color>
+</resources>

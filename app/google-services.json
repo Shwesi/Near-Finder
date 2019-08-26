@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "217355784056",
+    "firebase_url": "https://tracking-6b462.firebaseio.com",
+    "project_id": "tracking-6b462",
+    "storage_bucket": "tracking-6b462.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217355784056:android:55ff10bf049d4c79",
+        "android_client_info": {
+          "package_name": "com.shwesi.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217355784056-6n3mie5hcbi3biop1smb7auqo82k189e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGQRqEde0jrFog8_YQ-dEAqqYz0WUjwxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217355784056-6n3mie5hcbi3biop1smb7auqo82k189e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.toryes.studnow.activity.ListNearMe">
+    <LinearLayout
+        android:layout_weight=".06"
+        android:layout_margin="10dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+        <!--<Space-->
+            <!--android:layout_weight="0.3"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="wrap_content" />-->
+        <Spinner
+            android:layout_weight="0.8"
+            android:id="@+id/spinner"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+        <ImageView
+            android:id="@+id/map"
+            android:layout_weight="0.2"
+            android:src="@drawable/black_map"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+<android.support.v7.widget.RecyclerView
+    android:layout_weight=".84"
+    android:id="@+id/recyclerview"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"></android.support.v7.widget.RecyclerView>
+    <com.google.android.gms.ads.AdView
+        android:layout_marginTop="10dp"
+        android:layout_weight="0.1"
+        android:id="@+id/adView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_home_footer"
+        >
+    </com.google.android.gms.ads.AdView>
+</LinearLayout>

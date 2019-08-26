@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_margin="10dp"
+    android:orientation="vertical" android:layout_width="match_parent"
+
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_marginLeft="10dp"
+        android:text="Enter Your Phone Number With Country Code"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <LinearLayout
+        android:layout_marginTop="10dp"
+
+        android:weightSum="1"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_marginLeft="10dp"
+            android:layout_weight="0.05"
+            android:text="+"
+            android:gravity="left"
+            android:textSize="20sp"
+            android:layout_width="0dp"
+            android:layout_height="45dp" />
+    <EditText
+        android:id="@+id/edtCountryCode"
+        android:paddingLeft="10dp"
+        android:layout_weight=".25"
+
+        android:hint="@string/code"
+        android:background="@drawable/round_button"
+        android:layout_width="0dp"
+        android:layout_height="45dp" />
+<EditText
+    android:paddingLeft="10dp"
+  android:layout_weight=".7"
+    android:hint="@string/phone_number"
+    android:padding="10dp"
+    android:background="@drawable/round_button"
+    android:id="@+id/edittext"
+    android:layout_width="0dp"
+    android:layout_height="45dp" />
+    </LinearLayout>
+</LinearLayout>
